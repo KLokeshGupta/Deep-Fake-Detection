@@ -1,0 +1,8 @@
+For eyebrow implementation the input shape taken is 75,3
+For eyeblink implementation the input shape taken is 75,6
+For combined eyebrow+eyeblink implementation the input shape taken is 56,6
+
+X,Y
+X -- number of frames
+
+Y -- number of features extracted per each frame
