@@ -11,3 +11,5 @@ git clone git@github.com:vikram18rock/Deep-Fake-Detection.git
 2. The files are linked using wiki links. This can be viewed best using [Obsidian](https://obsidian.md/). Create a vault in `Deep-Fake-Detection` directory
 
 3. The large files for checkpoints of LRCN and CNN are available on 'https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi'
+
+4. More references 'https://github.com/utkuatasoy/AI-Powered-Deepfake-Detection'
